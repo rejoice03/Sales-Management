@@ -28,7 +28,9 @@ One data source (sales budgets) were provided in Excel format and were connected
 
 Below the link are the SQL statements for cleansing and transforming necessary data.
 
-[**SQL Code**](https://github.com/rejoice03/Sales-Management/blob/main/Sales%20Management.sql)
+[**SQL Code Link Click here**](https://github.com/rejoice03/Sales-Management/blob/main/Sales%20Management.sql)
+
+![App Screenshot](https://github.com/rejoice03/Sales-Management/blob/main/Screenshot%20(32).png?raw=true)
 
 ### Data Model
 
